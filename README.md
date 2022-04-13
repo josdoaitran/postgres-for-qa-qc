@@ -12,3 +12,7 @@ SQL database ussing Posgres - Simple Postgres  SQL for QA/QC for testing purpose
 
 
 - ERD Extension of VS Code: https://marketplace.visualstudio.com/items?itemName=dineug.vuerd-vscode
+
+
+## References:
+- https://www.sqlservertutorial.net/sql-server-sample-database/

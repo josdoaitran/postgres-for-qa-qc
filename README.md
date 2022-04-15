@@ -13,8 +13,12 @@ SQL database ussing Posgres - Simple Postgres  SQL for QA/QC for testing purpose
 - ERD Extension of VS Code: https://marketplace.visualstudio.com/items?itemName=dineug.vuerd-vscode
 
 ## Setup Local Database:
-Open **setups** folder, we have 3 sql files:
+Open `setups` folder, we have 3 sql files:
 
+- `BikeStores-create objects.sql`: this file is for creating database objects including schemas and tables.
+
+- `BikeStores-load data.sql`: this file is for inserting data into the tables
+- `BikeStores-drop all objects.sql`: this file is for removing the tables and their schemas from the sample database. It is useful when you want to refresh the sample database.
 
 ## References:
 - https://www.sqlservertutorial.net/sql-server-sample-database/

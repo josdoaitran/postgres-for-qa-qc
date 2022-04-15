@@ -10,8 +10,10 @@ SQL database ussing Posgres - Simple Postgres  SQL for QA/QC for testing purpose
 - Db admin tool / Client tools by this comman:  `docker run --name pgadmin -p 5555:80 -e PGADMIN_DEFAULT_EMAIL="testingforevrything@gmail.com" -e PGADMIN_DEFAULT_PASSWORD="P@SS" dpage/pgadmin4`
 - Db client tool `dbeaver`: https://dbeaver.io/download/
 
-
 - ERD Extension of VS Code: https://marketplace.visualstudio.com/items?itemName=dineug.vuerd-vscode
+
+## Setup Local Database:
+Open **setups** folder, we have 3 sql files:
 
 
 ## References:

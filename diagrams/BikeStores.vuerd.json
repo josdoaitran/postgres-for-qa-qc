@@ -258,7 +258,7 @@
           "active": false,
           "left": 134.1424,
           "top": 719.4818,
-          "zIndex": 223,
+          "zIndex": 6,
           "widthName": 95.919921875,
           "widthComment": 60,
           "color": "#2196F3"
@@ -436,7 +436,7 @@
           "active": false,
           "left": 631.25,
           "top": 1291.1885,
-          "zIndex": 210,
+          "zIndex": 3,
           "widthName": 104.59716796875,
           "widthComment": 60,
           "color": "#2196F3"
@@ -637,7 +637,7 @@
           "active": false,
           "left": 608.9371,
           "top": 1001.6593,
-          "zIndex": 206,
+          "zIndex": 2,
           "widthName": 71.36083984375,
           "widthComment": 60,
           "color": "#2196F3"
@@ -838,7 +838,7 @@
           "active": false,
           "left": 601.6851,
           "top": 722.4175,
-          "zIndex": 222,
+          "zIndex": 5,
           "widthName": 66.796875,
           "widthComment": 60,
           "color": "#2196F3"
@@ -1039,7 +1039,7 @@
           "active": false,
           "left": 95.2367,
           "top": 1078.8217,
-          "zIndex": 221,
+          "zIndex": 4,
           "widthName": 72.80810546875,
           "widthComment": 60,
           "color": "#2196F3"
@@ -1102,7 +1102,7 @@
           "active": true,
           "left": 1097.3885,
           "top": 683.1759,
-          "zIndex": 227,
+          "zIndex": 9,
           "widthName": 126.2998046875,
           "widthComment": 60,
           "color": "#F44336"
@@ -1303,7 +1303,7 @@
           "active": false,
           "left": 1077.9329,
           "top": 879.5976,
-          "zIndex": 226,
+          "zIndex": 8,
           "widthName": 116.181640625,
           "widthComment": 60,
           "color": "#F44336"
@@ -1412,7 +1412,7 @@
           "active": false,
           "left": 1118.4167,
           "top": 1352.4167,
-          "zIndex": 224,
+          "zIndex": 7,
           "widthName": 103.16259765625,
           "widthComment": 60,
           "color": "#F44336"
@@ -1475,7 +1475,7 @@
           "active": false,
           "left": 1335.6667,
           "top": 1162.6667,
-          "zIndex": 204,
+          "zIndex": 1,
           "widthName": 106.06982421875,
           "widthComment": 60,
           "color": "#F44336"

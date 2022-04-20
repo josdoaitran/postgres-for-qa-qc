@@ -20,5 +20,8 @@ Open `setups` folder, we have 3 sql files:
 - `BikeStores-load data.sql`: this file is for inserting data into the tables
 - `BikeStores-drop all objects.sql`: this file is for removing the tables and their schemas from the sample database. It is useful when you want to refresh the sample database.
 
+
+psql -d dvdrental -U  postgres -W
+
 ## References:
 - https://www.sqlservertutorial.net/sql-server-sample-database/

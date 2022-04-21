@@ -1,233 +1,467 @@
-524','1','Jared','Ely','jared.ely@sakilacustomer.org','530','t','2006-02-14','2013-05-26 14:49:45.738','1';
-1','1','Mary','Smith','mary.smith@sakilacustomer.org','5','t','2006-02-14','2013-05-26 14:49:45.738','1';
-2','1','Patricia','Johnson','patricia.johnson@sakilacustomer.org','6','t','2006-02-14','2013-05-26 14:49:45.738','1';
-3','1','Linda','Williams','linda.williams@sakilacustomer.org','7','t','2006-02-14','2013-05-26 14:49:45.738','1';
-4','2','Barbara','Jones','barbara.jones@sakilacustomer.org','8','t','2006-02-14','2013-05-26 14:49:45.738','1';
-5','1','Elizabeth','Brown','elizabeth.brown@sakilacustomer.org','9','t','2006-02-14','2013-05-26 14:49:45.738','1';
-6','2','Jennifer','Davis','jennifer.davis@sakilacustomer.org','10','t','2006-02-14','2013-05-26 14:49:45.738','1';
-7','1','Maria','Miller','maria.miller@sakilacustomer.org','11','t','2006-02-14','2013-05-26 14:49:45.738','1';
-8','2','Susan','Wilson','susan.wilson@sakilacustomer.org','12','t','2006-02-14','2013-05-26 14:49:45.738','1';
-9','2','Margaret','Moore','margaret.moore@sakilacustomer.org','13','t','2006-02-14','2013-05-26 14:49:45.738','1';
-10','1','Dorothy','Taylor','dorothy.taylor@sakilacustomer.org','14','t','2006-02-14','2013-05-26 14:49:45.738','1';
-11','2','Lisa','Anderson','lisa.anderson@sakilacustomer.org','15','t','2006-02-14','2013-05-26 14:49:45.738','1';
-12','1','Nancy','Thomas','nancy.thomas@sakilacustomer.org','16','t','2006-02-14','2013-05-26 14:49:45.738','1';
-13','2','Karen','Jackson','karen.jackson@sakilacustomer.org','17','t','2006-02-14','2013-05-26 14:49:45.738','1';
-14','2','Betty','White','betty.white@sakilacustomer.org','18','t','2006-02-14','2013-05-26 14:49:45.738','1';
-15','1','Helen','Harris','helen.harris@sakilacustomer.org','19','t','2006-02-14','2013-05-26 14:49:45.738','1';
-16','2','Sandra','Martin','sandra.martin@sakilacustomer.org','20','t','2006-02-14','2013-05-26 14:49:45.738','0';
-17','1','Donna','Thompson','donna.thompson@sakilacustomer.org','21','t','2006-02-14','2013-05-26 14:49:45.738','1';
-18','2','Carol','Garcia','carol.garcia@sakilacustomer.org','22','t','2006-02-14','2013-05-26 14:49:45.738','1';
-19','1','Ruth','Martinez','ruth.martinez@sakilacustomer.org','23','t','2006-02-14','2013-05-26 14:49:45.738','1';
-20','2','Sharon','Robinson','sharon.robinson@sakilacustomer.org','24','t','2006-02-14','2013-05-26 14:49:45.738','1';
-21','1','Michelle','Clark','michelle.clark@sakilacustomer.org','25','t','2006-02-14','2013-05-26 14:49:45.738','1';
-22','1','Laura','Rodriguez','laura.rodriguez@sakilacustomer.org','26','t','2006-02-14','2013-05-26 14:49:45.738','1';
-23','2','Sarah','Lewis','sarah.lewis@sakilacustomer.org','27','t','2006-02-14','2013-05-26 14:49:45.738','1';
-24','2','Kimberly','Lee','kimberly.lee@sakilacustomer.org','28','t','2006-02-14','2013-05-26 14:49:45.738','1';
-25','1','Deborah','Walker','deborah.walker@sakilacustomer.org','29','t','2006-02-14','2013-05-26 14:49:45.738','1';
-26','2','Jessica','Hall','jessica.hall@sakilacustomer.org','30','t','2006-02-14','2013-05-26 14:49:45.738','1';
-27','2','Shirley','Allen','shirley.allen@sakilacustomer.org','31','t','2006-02-14','2013-05-26 14:49:45.738','1';
-28','1','Cynthia','Young','cynthia.young@sakilacustomer.org','32','t','2006-02-14','2013-05-26 14:49:45.738','1';
-29','2','Angela','Hernandez','angela.hernandez@sakilacustomer.org','33','t','2006-02-14','2013-05-26 14:49:45.738','1';
-30','1','Melissa','King','melissa.king@sakilacustomer.org','34','t','2006-02-14','2013-05-26 14:49:45.738','1';
-31','2','Brenda','Wright','brenda.wright@sakilacustomer.org','35','t','2006-02-14','2013-05-26 14:49:45.738','1';
-32','1','Amy','Lopez','amy.lopez@sakilacustomer.org','36','t','2006-02-14','2013-05-26 14:49:45.738','1';
-33','2','Anna','Hill','anna.hill@sakilacustomer.org','37','t','2006-02-14','2013-05-26 14:49:45.738','1';
-34','2','Rebecca','Scott','rebecca.scott@sakilacustomer.org','38','t','2006-02-14','2013-05-26 14:49:45.738','1';
-35','2','Virginia','Green','virginia.green@sakilacustomer.org','39','t','2006-02-14','2013-05-26 14:49:45.738','1';
-36','2','Kathleen','Adams','kathleen.adams@sakilacustomer.org','40','t','2006-02-14','2013-05-26 14:49:45.738','1';
-37','1','Pamela','Baker','pamela.baker@sakilacustomer.org','41','t','2006-02-14','2013-05-26 14:49:45.738','1';
-38','1','Martha','Gonzalez','martha.gonzalez@sakilacustomer.org','42','t','2006-02-14','2013-05-26 14:49:45.738','1';
-39','1','Debra','Nelson','debra.nelson@sakilacustomer.org','43','t','2006-02-14','2013-05-26 14:49:45.738','1';
-40','2','Amanda','Carter','amanda.carter@sakilacustomer.org','44','t','2006-02-14','2013-05-26 14:49:45.738','1';
-41','1','Stephanie','Mitchell','stephanie.mitchell@sakilacustomer.org','45','t','2006-02-14','2013-05-26 14:49:45.738','1';
-42','2','Carolyn','Perez','carolyn.perez@sakilacustomer.org','46','t','2006-02-14','2013-05-26 14:49:45.738','1';
-43','2','Christine','Roberts','christine.roberts@sakilacustomer.org','47','t','2006-02-14','2013-05-26 14:49:45.738','1';
-44','1','Marie','Turner','marie.turner@sakilacustomer.org','48','t','2006-02-14','2013-05-26 14:49:45.738','1';
-45','1','Janet','Phillips','janet.phillips@sakilacustomer.org','49','t','2006-02-14','2013-05-26 14:49:45.738','1';
-46','2','Catherine','Campbell','catherine.campbell@sakilacustomer.org','50','t','2006-02-14','2013-05-26 14:49:45.738','1';
-47','1','Frances','Parker','frances.parker@sakilacustomer.org','51','t','2006-02-14','2013-05-26 14:49:45.738','1';
-48','1','Ann','Evans','ann.evans@sakilacustomer.org','52','t','2006-02-14','2013-05-26 14:49:45.738','1';
-49','2','Joyce','Edwards','joyce.edwards@sakilacustomer.org','53','t','2006-02-14','2013-05-26 14:49:45.738','1';
-50','1','Diane','Collins','diane.collins@sakilacustomer.org','54','t','2006-02-14','2013-05-26 14:49:45.738','1';
-51','1','Alice','Stewart','alice.stewart@sakilacustomer.org','55','t','2006-02-14','2013-05-26 14:49:45.738','1';
-52','1','Julie','Sanchez','julie.sanchez@sakilacustomer.org','56','t','2006-02-14','2013-05-26 14:49:45.738','1';
-53','1','Heather','Morris','heather.morris@sakilacustomer.org','57','t','2006-02-14','2013-05-26 14:49:45.738','1';
-54','1','Teresa','Rogers','teresa.rogers@sakilacustomer.org','58','t','2006-02-14','2013-05-26 14:49:45.738','1';
-55','2','Doris','Reed','doris.reed@sakilacustomer.org','59','t','2006-02-14','2013-05-26 14:49:45.738','1';
-56','1','Gloria','Cook','gloria.cook@sakilacustomer.org','60','t','2006-02-14','2013-05-26 14:49:45.738','1';
-57','2','Evelyn','Morgan','evelyn.morgan@sakilacustomer.org','61','t','2006-02-14','2013-05-26 14:49:45.738','1';
-58','1','Jean','Bell','jean.bell@sakilacustomer.org','62','t','2006-02-14','2013-05-26 14:49:45.738','1';
-59','1','Cheryl','Murphy','cheryl.murphy@sakilacustomer.org','63','t','2006-02-14','2013-05-26 14:49:45.738','1';
-60','1','Mildred','Bailey','mildred.bailey@sakilacustomer.org','64','t','2006-02-14','2013-05-26 14:49:45.738','1';
-61','2','Katherine','Rivera','katherine.rivera@sakilacustomer.org','65','t','2006-02-14','2013-05-26 14:49:45.738','1';
-62','1','Joan','Cooper','joan.cooper@sakilacustomer.org','66','t','2006-02-14','2013-05-26 14:49:45.738','1';
-63','1','Ashley','Richardson','ashley.richardson@sakilacustomer.org','67','t','2006-02-14','2013-05-26 14:49:45.738','1';
-64','2','Judith','Cox','judith.cox@sakilacustomer.org','68','t','2006-02-14','2013-05-26 14:49:45.738','0';
-65','2','Rose','Howard','rose.howard@sakilacustomer.org','69','t','2006-02-14','2013-05-26 14:49:45.738','1';
-66','2','Janice','Ward','janice.ward@sakilacustomer.org','70','t','2006-02-14','2013-05-26 14:49:45.738','1';
-67','1','Kelly','Torres','kelly.torres@sakilacustomer.org','71','t','2006-02-14','2013-05-26 14:49:45.738','1';
-68','1','Nicole','Peterson','nicole.peterson@sakilacustomer.org','72','t','2006-02-14','2013-05-26 14:49:45.738','1';
-69','2','Judy','Gray','judy.gray@sakilacustomer.org','73','t','2006-02-14','2013-05-26 14:49:45.738','1';
-70','2','Christina','Ramirez','christina.ramirez@sakilacustomer.org','74','t','2006-02-14','2013-05-26 14:49:45.738','1';
-71','1','Kathy','James','kathy.james@sakilacustomer.org','75','t','2006-02-14','2013-05-26 14:49:45.738','1';
-72','2','Theresa','Watson','theresa.watson@sakilacustomer.org','76','t','2006-02-14','2013-05-26 14:49:45.738','1';
-73','2','Beverly','Brooks','beverly.brooks@sakilacustomer.org','77','t','2006-02-14','2013-05-26 14:49:45.738','1';
-74','1','Denise','Kelly','denise.kelly@sakilacustomer.org','78','t','2006-02-14','2013-05-26 14:49:45.738','1';
-75','2','Tammy','Sanders','tammy.sanders@sakilacustomer.org','79','t','2006-02-14','2013-05-26 14:49:45.738','1';
-76','2','Irene','Price','irene.price@sakilacustomer.org','80','t','2006-02-14','2013-05-26 14:49:45.738','1';
-77','2','Jane','Bennett','jane.bennett@sakilacustomer.org','81','t','2006-02-14','2013-05-26 14:49:45.738','1';
-78','1','Lori','Wood','lori.wood@sakilacustomer.org','82','t','2006-02-14','2013-05-26 14:49:45.738','1';
-79','1','Rachel','Barnes','rachel.barnes@sakilacustomer.org','83','t','2006-02-14','2013-05-26 14:49:45.738','1';
-80','1','Marilyn','Ross','marilyn.ross@sakilacustomer.org','84','t','2006-02-14','2013-05-26 14:49:45.738','1';
-81','1','Andrea','Henderson','andrea.henderson@sakilacustomer.org','85','t','2006-02-14','2013-05-26 14:49:45.738','1';
-82','1','Kathryn','Coleman','kathryn.coleman@sakilacustomer.org','86','t','2006-02-14','2013-05-26 14:49:45.738','1';
-83','1','Louise','Jenkins','louise.jenkins@sakilacustomer.org','87','t','2006-02-14','2013-05-26 14:49:45.738','1';
-84','2','Sara','Perry','sara.perry@sakilacustomer.org','88','t','2006-02-14','2013-05-26 14:49:45.738','1';
-85','2','Anne','Powell','anne.powell@sakilacustomer.org','89','t','2006-02-14','2013-05-26 14:49:45.738','1';
-86','2','Jacqueline','Long','jacqueline.long@sakilacustomer.org','90','t','2006-02-14','2013-05-26 14:49:45.738','1';
-87','1','Wanda','Patterson','wanda.patterson@sakilacustomer.org','91','t','2006-02-14','2013-05-26 14:49:45.738','1';
-88','2','Bonnie','Hughes','bonnie.hughes@sakilacustomer.org','92','t','2006-02-14','2013-05-26 14:49:45.738','1';
-89','1','Julia','Flores','julia.flores@sakilacustomer.org','93','t','2006-02-14','2013-05-26 14:49:45.738','1';
-90','2','Ruby','Washington','ruby.washington@sakilacustomer.org','94','t','2006-02-14','2013-05-26 14:49:45.738','1';
-91','2','Lois','Butler','lois.butler@sakilacustomer.org','95','t','2006-02-14','2013-05-26 14:49:45.738','1';
-92','2','Tina','Simmons','tina.simmons@sakilacustomer.org','96','t','2006-02-14','2013-05-26 14:49:45.738','1';
-93','1','Phyllis','Foster','phyllis.foster@sakilacustomer.org','97','t','2006-02-14','2013-05-26 14:49:45.738','1';
-94','1','Norma','Gonzales','norma.gonzales@sakilacustomer.org','98','t','2006-02-14','2013-05-26 14:49:45.738','1';
-95','2','Paula','Bryant','paula.bryant@sakilacustomer.org','99','t','2006-02-14','2013-05-26 14:49:45.738','1';
-96','1','Diana','Alexander','diana.alexander@sakilacustomer.org','100','t','2006-02-14','2013-05-26 14:49:45.738','1';
-97','2','Annie','Russell','annie.russell@sakilacustomer.org','101','t','2006-02-14','2013-05-26 14:49:45.738','1';
-98','1','Lillian','Griffin','lillian.griffin@sakilacustomer.org','102','t','2006-02-14','2013-05-26 14:49:45.738','1';
-99','2','Emily','Diaz','emily.diaz@sakilacustomer.org','103','t','2006-02-14','2013-05-26 14:49:45.738','1';
-100','1','Robin','Hayes','robin.hayes@sakilacustomer.org','104','t','2006-02-14','2013-05-26 14:49:45.738','1';
-101','1','Peggy','Myers','peggy.myers@sakilacustomer.org','105','t','2006-02-14','2013-05-26 14:49:45.738','1';
-102','1','Crystal','Ford','crystal.ford@sakilacustomer.org','106','t','2006-02-14','2013-05-26 14:49:45.738','1';
-103','1','Gladys','Hamilton','gladys.hamilton@sakilacustomer.org','107','t','2006-02-14','2013-05-26 14:49:45.738','1';
-104','1','Rita','Graham','rita.graham@sakilacustomer.org','108','t','2006-02-14','2013-05-26 14:49:45.738','1';
-105','1','Dawn','Sullivan','dawn.sullivan@sakilacustomer.org','109','t','2006-02-14','2013-05-26 14:49:45.738','1';
-106','1','Connie','Wallace','connie.wallace@sakilacustomer.org','110','t','2006-02-14','2013-05-26 14:49:45.738','1';
-107','1','Florence','Woods','florence.woods@sakilacustomer.org','111','t','2006-02-14','2013-05-26 14:49:45.738','1';
-108','1','Tracy','Cole','tracy.cole@sakilacustomer.org','112','t','2006-02-14','2013-05-26 14:49:45.738','1';
-109','2','Edna','West','edna.west@sakilacustomer.org','113','t','2006-02-14','2013-05-26 14:49:45.738','1';
-110','2','Tiffany','Jordan','tiffany.jordan@sakilacustomer.org','114','t','2006-02-14','2013-05-26 14:49:45.738','1';
-111','1','Carmen','Owens','carmen.owens@sakilacustomer.org','115','t','2006-02-14','2013-05-26 14:49:45.738','1';
-112','2','Rosa','Reynolds','rosa.reynolds@sakilacustomer.org','116','t','2006-02-14','2013-05-26 14:49:45.738','1';
-113','2','Cindy','Fisher','cindy.fisher@sakilacustomer.org','117','t','2006-02-14','2013-05-26 14:49:45.738','1';
-114','2','Grace','Ellis','grace.ellis@sakilacustomer.org','118','t','2006-02-14','2013-05-26 14:49:45.738','1';
-115','1','Wendy','Harrison','wendy.harrison@sakilacustomer.org','119','t','2006-02-14','2013-05-26 14:49:45.738','1';
-116','1','Victoria','Gibson','victoria.gibson@sakilacustomer.org','120','t','2006-02-14','2013-05-26 14:49:45.738','1';
-117','1','Edith','Mcdonald','edith.mcdonald@sakilacustomer.org','121','t','2006-02-14','2013-05-26 14:49:45.738','1';
-118','1','Kim','Cruz','kim.cruz@sakilacustomer.org','122','t','2006-02-14','2013-05-26 14:49:45.738','1';
-119','1','Sherry','Marshall','sherry.marshall@sakilacustomer.org','123','t','2006-02-14','2013-05-26 14:49:45.738','1';
-120','2','Sylvia','Ortiz','sylvia.ortiz@sakilacustomer.org','124','t','2006-02-14','2013-05-26 14:49:45.738','1';
-121','1','Josephine','Gomez','josephine.gomez@sakilacustomer.org','125','t','2006-02-14','2013-05-26 14:49:45.738','1';
-122','1','Thelma','Murray','thelma.murray@sakilacustomer.org','126','t','2006-02-14','2013-05-26 14:49:45.738','1';
-123','2','Shannon','Freeman','shannon.freeman@sakilacustomer.org','127','t','2006-02-14','2013-05-26 14:49:45.738','1';
-124','1','Sheila','Wells','sheila.wells@sakilacustomer.org','128','t','2006-02-14','2013-05-26 14:49:45.738','0';
-125','1','Ethel','Webb','ethel.webb@sakilacustomer.org','129','t','2006-02-14','2013-05-26 14:49:45.738','1';
-126','1','Ellen','Simpson','ellen.simpson@sakilacustomer.org','130','t','2006-02-14','2013-05-26 14:49:45.738','1';
-127','2','Elaine','Stevens','elaine.stevens@sakilacustomer.org','131','t','2006-02-14','2013-05-26 14:49:45.738','1';
-128','1','Marjorie','Tucker','marjorie.tucker@sakilacustomer.org','132','t','2006-02-14','2013-05-26 14:49:45.738','1';
-129','1','Carrie','Porter','carrie.porter@sakilacustomer.org','133','t','2006-02-14','2013-05-26 14:49:45.738','1';
-130','1','Charlotte','Hunter','charlotte.hunter@sakilacustomer.org','134','t','2006-02-14','2013-05-26 14:49:45.738','1';
-131','2','Monica','Hicks','monica.hicks@sakilacustomer.org','135','t','2006-02-14','2013-05-26 14:49:45.738','1';
-132','2','Esther','Crawford','esther.crawford@sakilacustomer.org','136','t','2006-02-14','2013-05-26 14:49:45.738','1';
-133','1','Pauline','Henry','pauline.henry@sakilacustomer.org','137','t','2006-02-14','2013-05-26 14:49:45.738','1';
-134','1','Emma','Boyd','emma.boyd@sakilacustomer.org','138','t','2006-02-14','2013-05-26 14:49:45.738','1';
-135','2','Juanita','Mason','juanita.mason@sakilacustomer.org','139','t','2006-02-14','2013-05-26 14:49:45.738','1';
-136','2','Anita','Morales','anita.morales@sakilacustomer.org','140','t','2006-02-14','2013-05-26 14:49:45.738','1';
-137','2','Rhonda','Kennedy','rhonda.kennedy@sakilacustomer.org','141','t','2006-02-14','2013-05-26 14:49:45.738','1';
-138','1','Hazel','Warren','hazel.warren@sakilacustomer.org','142','t','2006-02-14','2013-05-26 14:49:45.738','1';
-139','1','Amber','Dixon','amber.dixon@sakilacustomer.org','143','t','2006-02-14','2013-05-26 14:49:45.738','1';
-140','1','Eva','Ramos','eva.ramos@sakilacustomer.org','144','t','2006-02-14','2013-05-26 14:49:45.738','1';
-141','1','Debbie','Reyes','debbie.reyes@sakilacustomer.org','145','t','2006-02-14','2013-05-26 14:49:45.738','1';
-142','1','April','Burns','april.burns@sakilacustomer.org','146','t','2006-02-14','2013-05-26 14:49:45.738','1';
-143','1','Leslie','Gordon','leslie.gordon@sakilacustomer.org','147','t','2006-02-14','2013-05-26 14:49:45.738','1';
-144','1','Clara','Shaw','clara.shaw@sakilacustomer.org','148','t','2006-02-14','2013-05-26 14:49:45.738','1';
-145','1','Lucille','Holmes','lucille.holmes@sakilacustomer.org','149','t','2006-02-14','2013-05-26 14:49:45.738','1';
-146','1','Jamie','Rice','jamie.rice@sakilacustomer.org','150','t','2006-02-14','2013-05-26 14:49:45.738','1';
-147','2','Joanne','Robertson','joanne.robertson@sakilacustomer.org','151','t','2006-02-14','2013-05-26 14:49:45.738','1';
-148','1','Eleanor','Hunt','eleanor.hunt@sakilacustomer.org','152','t','2006-02-14','2013-05-26 14:49:45.738','1';
-149','1','Valerie','Black','valerie.black@sakilacustomer.org','153','t','2006-02-14','2013-05-26 14:49:45.738','1';
-150','2','Danielle','Daniels','danielle.daniels@sakilacustomer.org','154','t','2006-02-14','2013-05-26 14:49:45.738','1';
-151','2','Megan','Palmer','megan.palmer@sakilacustomer.org','155','t','2006-02-14','2013-05-26 14:49:45.738','1';
-152','1','Alicia','Mills','alicia.mills@sakilacustomer.org','156','t','2006-02-14','2013-05-26 14:49:45.738','1';
-153','2','Suzanne','Nichols','suzanne.nichols@sakilacustomer.org','157','t','2006-02-14','2013-05-26 14:49:45.738','1';
-154','2','Michele','Grant','michele.grant@sakilacustomer.org','158','t','2006-02-14','2013-05-26 14:49:45.738','1';
-155','1','Gail','Knight','gail.knight@sakilacustomer.org','159','t','2006-02-14','2013-05-26 14:49:45.738','1';
-156','1','Bertha','Ferguson','bertha.ferguson@sakilacustomer.org','160','t','2006-02-14','2013-05-26 14:49:45.738','1';
-157','2','Darlene','Rose','darlene.rose@sakilacustomer.org','161','t','2006-02-14','2013-05-26 14:49:45.738','1';
-158','1','Veronica','Stone','veronica.stone@sakilacustomer.org','162','t','2006-02-14','2013-05-26 14:49:45.738','1';
-159','1','Jill','Hawkins','jill.hawkins@sakilacustomer.org','163','t','2006-02-14','2013-05-26 14:49:45.738','1';
-160','2','Erin','Dunn','erin.dunn@sakilacustomer.org','164','t','2006-02-14','2013-05-26 14:49:45.738','1';
-161','1','Geraldine','Perkins','geraldine.perkins@sakilacustomer.org','165','t','2006-02-14','2013-05-26 14:49:45.738','1';
-162','2','Lauren','Hudson','lauren.hudson@sakilacustomer.org','166','t','2006-02-14','2013-05-26 14:49:45.738','1';
-163','1','Cathy','Spencer','cathy.spencer@sakilacustomer.org','167','t','2006-02-14','2013-05-26 14:49:45.738','1';
-164','2','Joann','Gardner','joann.gardner@sakilacustomer.org','168','t','2006-02-14','2013-05-26 14:49:45.738','1';
-165','2','Lorraine','Stephens','lorraine.stephens@sakilacustomer.org','169','t','2006-02-14','2013-05-26 14:49:45.738','1';
-166','1','Lynn','Payne','lynn.payne@sakilacustomer.org','170','t','2006-02-14','2013-05-26 14:49:45.738','1';
-167','2','Sally','Pierce','sally.pierce@sakilacustomer.org','171','t','2006-02-14','2013-05-26 14:49:45.738','1';
-168','1','Regina','Berry','regina.berry@sakilacustomer.org','172','t','2006-02-14','2013-05-26 14:49:45.738','1';
-169','2','Erica','Matthews','erica.matthews@sakilacustomer.org','173','t','2006-02-14','2013-05-26 14:49:45.738','0';
-170','1','Beatrice','Arnold','beatrice.arnold@sakilacustomer.org','174','t','2006-02-14','2013-05-26 14:49:45.738','1';
-171','2','Dolores','Wagner','dolores.wagner@sakilacustomer.org','175','t','2006-02-14','2013-05-26 14:49:45.738','1';
-172','1','Bernice','Willis','bernice.willis@sakilacustomer.org','176','t','2006-02-14','2013-05-26 14:49:45.738','1';
-173','1','Audrey','Ray','audrey.ray@sakilacustomer.org','177','t','2006-02-14','2013-05-26 14:49:45.738','1';
-174','2','Yvonne','Watkins','yvonne.watkins@sakilacustomer.org','178','t','2006-02-14','2013-05-26 14:49:45.738','1';
-175','1','Annette','Olson','annette.olson@sakilacustomer.org','179','t','2006-02-14','2013-05-26 14:49:45.738','1';
-176','1','June','Carroll','june.carroll@sakilacustomer.org','180','t','2006-02-14','2013-05-26 14:49:45.738','1';
-177','2','Samantha','Duncan','samantha.duncan@sakilacustomer.org','181','t','2006-02-14','2013-05-26 14:49:45.738','1';
-178','2','Marion','Snyder','marion.snyder@sakilacustomer.org','182','t','2006-02-14','2013-05-26 14:49:45.738','1';
-179','1','Dana','Hart','dana.hart@sakilacustomer.org','183','t','2006-02-14','2013-05-26 14:49:45.738','1';
-180','2','Stacy','Cunningham','stacy.cunningham@sakilacustomer.org','184','t','2006-02-14','2013-05-26 14:49:45.738','1';
-181','2','Ana','Bradley','ana.bradley@sakilacustomer.org','185','t','2006-02-14','2013-05-26 14:49:45.738','1';
-182','1','Renee','Lane','renee.lane@sakilacustomer.org','186','t','2006-02-14','2013-05-26 14:49:45.738','1';
-183','2','Ida','Andrews','ida.andrews@sakilacustomer.org','187','t','2006-02-14','2013-05-26 14:49:45.738','1';
-184','1','Vivian','Ruiz','vivian.ruiz@sakilacustomer.org','188','t','2006-02-14','2013-05-26 14:49:45.738','1';
-185','1','Roberta','Harper','roberta.harper@sakilacustomer.org','189','t','2006-02-14','2013-05-26 14:49:45.738','1';
-186','2','Holly','Fox','holly.fox@sakilacustomer.org','190','t','2006-02-14','2013-05-26 14:49:45.738','1';
-187','2','Brittany','Riley','brittany.riley@sakilacustomer.org','191','t','2006-02-14','2013-05-26 14:49:45.738','1';
-188','1','Melanie','Armstrong','melanie.armstrong@sakilacustomer.org','192','t','2006-02-14','2013-05-26 14:49:45.738','1';
-189','1','Loretta','Carpenter','loretta.carpenter@sakilacustomer.org','193','t','2006-02-14','2013-05-26 14:49:45.738','1';
-190','2','Yolanda','Weaver','yolanda.weaver@sakilacustomer.org','194','t','2006-02-14','2013-05-26 14:49:45.738','1';
-191','1','Jeanette','Greene','jeanette.greene@sakilacustomer.org','195','t','2006-02-14','2013-05-26 14:49:45.738','1';
-192','1','Laurie','Lawrence','laurie.lawrence@sakilacustomer.org','196','t','2006-02-14','2013-05-26 14:49:45.738','1';
-193','2','Katie','Elliott','katie.elliott@sakilacustomer.org','197','t','2006-02-14','2013-05-26 14:49:45.738','1';
-194','2','Kristen','Chavez','kristen.chavez@sakilacustomer.org','198','t','2006-02-14','2013-05-26 14:49:45.738','1';
-195','1','Vanessa','Sims','vanessa.sims@sakilacustomer.org','199','t','2006-02-14','2013-05-26 14:49:45.738','1';
-196','1','Alma','Austin','alma.austin@sakilacustomer.org','200','t','2006-02-14','2013-05-26 14:49:45.738','1';
-197','2','Sue','Peters','sue.peters@sakilacustomer.org','201','t','2006-02-14','2013-05-26 14:49:45.738','1';
-198','2','Elsie','Kelley','elsie.kelley@sakilacustomer.org','202','t','2006-02-14','2013-05-26 14:49:45.738','1';
-199','2','Beth','Franklin','beth.franklin@sakilacustomer.org','203','t','2006-02-14','2013-05-26 14:49:45.738','1';
-200','2','Jeanne','Lawson','jeanne.lawson@sakilacustomer.org','204','t','2006-02-14','2013-05-26 14:49:45.738','1';
-201','1','Vicki','Fields','vicki.fields@sakilacustomer.org','205','t','2006-02-14','2013-05-26 14:49:45.738','1';
-202','2','Carla','Gutierrez','carla.gutierrez@sakilacustomer.org','206','t','2006-02-14','2013-05-26 14:49:45.738','1';
-203','1','Tara','Ryan','tara.ryan@sakilacustomer.org','207','t','2006-02-14','2013-05-26 14:49:45.738','1';
-204','1','Rosemary','Schmidt','rosemary.schmidt@sakilacustomer.org','208','t','2006-02-14','2013-05-26 14:49:45.738','1';
-205','2','Eileen','Carr','eileen.carr@sakilacustomer.org','209','t','2006-02-14','2013-05-26 14:49:45.738','1';
-206','1','Terri','Vasquez','terri.vasquez@sakilacustomer.org','210','t','2006-02-14','2013-05-26 14:49:45.738','1';
-207','1','Gertrude','Castillo','gertrude.castillo@sakilacustomer.org','211','t','2006-02-14','2013-05-26 14:49:45.738','1';
-208','1','Lucy','Wheeler','lucy.wheeler@sakilacustomer.org','212','t','2006-02-14','2013-05-26 14:49:45.738','1';
-209','2','Tonya','Chapman','tonya.chapman@sakilacustomer.org','213','t','2006-02-14','2013-05-26 14:49:45.738','1';
-210','2','Ella','Oliver','ella.oliver@sakilacustomer.org','214','t','2006-02-14','2013-05-26 14:49:45.738','1';
-211','1','Stacey','Montgomery','stacey.montgomery@sakilacustomer.org','215','t','2006-02-14','2013-05-26 14:49:45.738','1';
-212','2','Wilma','Richards','wilma.richards@sakilacustomer.org','216','t','2006-02-14','2013-05-26 14:49:45.738','1';
-213','1','Gina','Williamson','gina.williamson@sakilacustomer.org','217','t','2006-02-14','2013-05-26 14:49:45.738','1';
-214','1','Kristin','Johnston','kristin.johnston@sakilacustomer.org','218','t','2006-02-14','2013-05-26 14:49:45.738','1';
-215','2','Jessie','Banks','jessie.banks@sakilacustomer.org','219','t','2006-02-14','2013-05-26 14:49:45.738','1';
-216','1','Natalie','Meyer','natalie.meyer@sakilacustomer.org','220','t','2006-02-14','2013-05-26 14:49:45.738','1';
-217','2','Agnes','Bishop','agnes.bishop@sakilacustomer.org','221','t','2006-02-14','2013-05-26 14:49:45.738','1';
-218','1','Vera','Mccoy','vera.mccoy@sakilacustomer.org','222','t','2006-02-14','2013-05-26 14:49:45.738','1';
-219','2','Willie','Howell','willie.howell@sakilacustomer.org','223','t','2006-02-14','2013-05-26 14:49:45.738','1';
-220','2','Charlene','Alvarez','charlene.alvarez@sakilacustomer.org','224','t','2006-02-14','2013-05-26 14:49:45.738','1';
-221','1','Bessie','Morrison','bessie.morrison@sakilacustomer.org','225','t','2006-02-14','2013-05-26 14:49:45.738','1';
-222','2','Delores','Hansen','delores.hansen@sakilacustomer.org','226','t','2006-02-14','2013-05-26 14:49:45.738','1';
-223','1','Melinda','Fernandez','melinda.fernandez@sakilacustomer.org','227','t','2006-02-14','2013-05-26 14:49:45.738','1';
-224','2','Pearl','Garza','pearl.garza@sakilacustomer.org','228','t','2006-02-14','2013-05-26 14:49:45.738','1';
-225','1','Arlene','Harvey','arlene.harvey@sakilacustomer.org','229','t','2006-02-14','2013-05-26 14:49:45.738','1';
-226','2','Maureen','Little','maureen.little@sakilacustomer.org','230','t','2006-02-14','2013-05-26 14:49:45.738','1';
-227','1','Colleen','Burton','colleen.burton@sakilacustomer.org','231','t','2006-02-14','2013-05-26 14:49:45.738','1';
-228','2','Allison','Stanley','allison.stanley@sakilacustomer.org','232','t','2006-02-14','2013-05-26 14:49:45.738','1';
-229','1','Tamara','Nguyen','tamara.nguyen@sakilacustomer.org','233','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '524','1','Jared','Ely','jared.ely@sakilacustomer.org','530','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '1','1','Mary','Smith','mary.smith@sakilacustomer.org','5','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '2','1','Patricia','Johnson','patricia.johnson@sakilacustomer.org','6','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '3','1','Linda','Williams','linda.williams@sakilacustomer.org','7','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '4','2','Barbara','Jones','barbara.jones@sakilacustomer.org','8','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '5','1','Elizabeth','Brown','elizabeth.brown@sakilacustomer.org','9','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '6','2','Jennifer','Davis','jennifer.davis@sakilacustomer.org','10','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '7','1','Maria','Miller','maria.miller@sakilacustomer.org','11','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '8','2','Susan','Wilson','susan.wilson@sakilacustomer.org','12','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '9','2','Margaret','Moore','margaret.moore@sakilacustomer.org','13','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '10','1','Dorothy','Taylor','dorothy.taylor@sakilacustomer.org','14','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '11','2','Lisa','Anderson','lisa.anderson@sakilacustomer.org','15','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '12','1','Nancy','Thomas','nancy.thomas@sakilacustomer.org','16','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '13','2','Karen','Jackson','karen.jackson@sakilacustomer.org','17','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '14','2','Betty','White','betty.white@sakilacustomer.org','18','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '15','1','Helen','Harris','helen.harris@sakilacustomer.org','19','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '16','2','Sandra','Martin','sandra.martin@sakilacustomer.org','20','t','2006-02-14','2013-05-26 14:49:45.738','0';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '17','1','Donna','Thompson','donna.thompson@sakilacustomer.org','21','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '18','2','Carol','Garcia','carol.garcia@sakilacustomer.org','22','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '19','1','Ruth','Martinez','ruth.martinez@sakilacustomer.org','23','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '20','2','Sharon','Robinson','sharon.robinson@sakilacustomer.org','24','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '21','1','Michelle','Clark','michelle.clark@sakilacustomer.org','25','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '22','1','Laura','Rodriguez','laura.rodriguez@sakilacustomer.org','26','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '23','2','Sarah','Lewis','sarah.lewis@sakilacustomer.org','27','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '24','2','Kimberly','Lee','kimberly.lee@sakilacustomer.org','28','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '25','1','Deborah','Walker','deborah.walker@sakilacustomer.org','29','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '26','2','Jessica','Hall','jessica.hall@sakilacustomer.org','30','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '27','2','Shirley','Allen','shirley.allen@sakilacustomer.org','31','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '28','1','Cynthia','Young','cynthia.young@sakilacustomer.org','32','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '29','2','Angela','Hernandez','angela.hernandez@sakilacustomer.org','33','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '30','1','Melissa','King','melissa.king@sakilacustomer.org','34','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '31','2','Brenda','Wright','brenda.wright@sakilacustomer.org','35','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '32','1','Amy','Lopez','amy.lopez@sakilacustomer.org','36','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '33','2','Anna','Hill','anna.hill@sakilacustomer.org','37','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '34','2','Rebecca','Scott','rebecca.scott@sakilacustomer.org','38','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '35','2','Virginia','Green','virginia.green@sakilacustomer.org','39','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '36','2','Kathleen','Adams','kathleen.adams@sakilacustomer.org','40','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '37','1','Pamela','Baker','pamela.baker@sakilacustomer.org','41','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '38','1','Martha','Gonzalez','martha.gonzalez@sakilacustomer.org','42','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '39','1','Debra','Nelson','debra.nelson@sakilacustomer.org','43','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '40','2','Amanda','Carter','amanda.carter@sakilacustomer.org','44','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '41','1','Stephanie','Mitchell','stephanie.mitchell@sakilacustomer.org','45','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '42','2','Carolyn','Perez','carolyn.perez@sakilacustomer.org','46','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '43','2','Christine','Roberts','christine.roberts@sakilacustomer.org','47','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '44','1','Marie','Turner','marie.turner@sakilacustomer.org','48','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '45','1','Janet','Phillips','janet.phillips@sakilacustomer.org','49','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '46','2','Catherine','Campbell','catherine.campbell@sakilacustomer.org','50','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '47','1','Frances','Parker','frances.parker@sakilacustomer.org','51','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '48','1','Ann','Evans','ann.evans@sakilacustomer.org','52','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '49','2','Joyce','Edwards','joyce.edwards@sakilacustomer.org','53','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '50','1','Diane','Collins','diane.collins@sakilacustomer.org','54','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '51','1','Alice','Stewart','alice.stewart@sakilacustomer.org','55','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '52','1','Julie','Sanchez','julie.sanchez@sakilacustomer.org','56','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '53','1','Heather','Morris','heather.morris@sakilacustomer.org','57','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '54','1','Teresa','Rogers','teresa.rogers@sakilacustomer.org','58','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '55','2','Doris','Reed','doris.reed@sakilacustomer.org','59','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '56','1','Gloria','Cook','gloria.cook@sakilacustomer.org','60','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '57','2','Evelyn','Morgan','evelyn.morgan@sakilacustomer.org','61','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '58','1','Jean','Bell','jean.bell@sakilacustomer.org','62','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '59','1','Cheryl','Murphy','cheryl.murphy@sakilacustomer.org','63','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '60','1','Mildred','Bailey','mildred.bailey@sakilacustomer.org','64','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '61','2','Katherine','Rivera','katherine.rivera@sakilacustomer.org','65','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '62','1','Joan','Cooper','joan.cooper@sakilacustomer.org','66','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '63','1','Ashley','Richardson','ashley.richardson@sakilacustomer.org','67','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '64','2','Judith','Cox','judith.cox@sakilacustomer.org','68','t','2006-02-14','2013-05-26 14:49:45.738','0';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '65','2','Rose','Howard','rose.howard@sakilacustomer.org','69','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '66','2','Janice','Ward','janice.ward@sakilacustomer.org','70','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '67','1','Kelly','Torres','kelly.torres@sakilacustomer.org','71','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '68','1','Nicole','Peterson','nicole.peterson@sakilacustomer.org','72','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '69','2','Judy','Gray','judy.gray@sakilacustomer.org','73','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '70','2','Christina','Ramirez','christina.ramirez@sakilacustomer.org','74','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '70','2','Christina','Ramirez','christina.ramirez@sakilacustomer.org','74','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '70','2','Christina','Ramirez','christina.ramirez@sakilacustomer.org','74','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '71','1','Kathy','James','kathy.james@sakilacustomer.org','75','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '72','2','Theresa','Watson','theresa.watson@sakilacustomer.org','76','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '73','2','Beverly','Brooks','beverly.brooks@sakilacustomer.org','77','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '74','1','Denise','Kelly','denise.kelly@sakilacustomer.org','78','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '75','2','Tammy','Sanders','tammy.sanders@sakilacustomer.org','79','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '76','2','Irene','Price','irene.price@sakilacustomer.org','80','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '77','2','Jane','Bennett','jane.bennett@sakilacustomer.org','81','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '78','1','Lori','Wood','lori.wood@sakilacustomer.org','82','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '79','1','Rachel','Barnes','rachel.barnes@sakilacustomer.org','83','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '80','1','Marilyn','Ross','marilyn.ross@sakilacustomer.org','84','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '81','1','Andrea','Henderson','andrea.henderson@sakilacustomer.org','85','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '82','1','Kathryn','Coleman','kathryn.coleman@sakilacustomer.org','86','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '83','1','Louise','Jenkins','louise.jenkins@sakilacustomer.org','87','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '84','2','Sara','Perry','sara.perry@sakilacustomer.org','88','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '85','2','Anne','Powell','anne.powell@sakilacustomer.org','89','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '86','2','Jacqueline','Long','jacqueline.long@sakilacustomer.org','90','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '87','1','Wanda','Patterson','wanda.patterson@sakilacustomer.org','91','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '88','2','Bonnie','Hughes','bonnie.hughes@sakilacustomer.org','92','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '89','1','Julia','Flores','julia.flores@sakilacustomer.org','93','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '90','2','Ruby','Washington','ruby.washington@sakilacustomer.org','94','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '91','2','Lois','Butler','lois.butler@sakilacustomer.org','95','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '92','2','Tina','Simmons','tina.simmons@sakilacustomer.org','96','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '93','1','Phyllis','Foster','phyllis.foster@sakilacustomer.org','97','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '94','1','Norma','Gonzales','norma.gonzales@sakilacustomer.org','98','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '95','2','Paula','Bryant','paula.bryant@sakilacustomer.org','99','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '96','1','Diana','Alexander','diana.alexander@sakilacustomer.org','100','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '97','2','Annie','Russell','annie.russell@sakilacustomer.org','101','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '98','1','Lillian','Griffin','lillian.griffin@sakilacustomer.org','102','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '99','2','Emily','Diaz','emily.diaz@sakilacustomer.org','103','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'100','1','Robin','Hayes','robin.hayes@sakilacustomer.org','104','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'101','1','Peggy','Myers','peggy.myers@sakilacustomer.org','105','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'102','1','Crystal','Ford','crystal.ford@sakilacustomer.org','106','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'103','1','Gladys','Hamilton','gladys.hamilton@sakilacustomer.org','107','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'104','1','Rita','Graham','rita.graham@sakilacustomer.org','108','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'105','1','Dawn','Sullivan','dawn.sullivan@sakilacustomer.org','109','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'106','1','Connie','Wallace','connie.wallace@sakilacustomer.org','110','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'107','1','Florence','Woods','florence.woods@sakilacustomer.org','111','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'108','1','Tracy','Cole','tracy.cole@sakilacustomer.org','112','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'109','2','Edna','West','edna.west@sakilacustomer.org','113','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'110','2','Tiffany','Jordan','tiffany.jordan@sakilacustomer.org','114','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'111','1','Carmen','Owens','carmen.owens@sakilacustomer.org','115','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'112','2','Rosa','Reynolds','rosa.reynolds@sakilacustomer.org','116','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'113','2','Cindy','Fisher','cindy.fisher@sakilacustomer.org','117','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'114','2','Grace','Ellis','grace.ellis@sakilacustomer.org','118','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'115','1','Wendy','Harrison','wendy.harrison@sakilacustomer.org','119','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'116','1','Victoria','Gibson','victoria.gibson@sakilacustomer.org','120','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'117','1','Edith','Mcdonald','edith.mcdonald@sakilacustomer.org','121','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'118','1','Kim','Cruz','kim.cruz@sakilacustomer.org','122','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'119','1','Sherry','Marshall','sherry.marshall@sakilacustomer.org','123','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'120','2','Sylvia','Ortiz','sylvia.ortiz@sakilacustomer.org','124','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'121','1','Josephine','Gomez','josephine.gomez@sakilacustomer.org','125','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'122','1','Thelma','Murray','thelma.murray@sakilacustomer.org','126','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'123','2','Shannon','Freeman','shannon.freeman@sakilacustomer.org','127','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'124','1','Sheila','Wells','sheila.wells@sakilacustomer.org','128','t','2006-02-14','2013-05-26 14:49:45.738','0';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'125','1','Ethel','Webb','ethel.webb@sakilacustomer.org','129','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'126','1','Ellen','Simpson','ellen.simpson@sakilacustomer.org','130','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'127','2','Elaine','Stevens','elaine.stevens@sakilacustomer.org','131','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'128','1','Marjorie','Tucker','marjorie.tucker@sakilacustomer.org','132','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'129','1','Carrie','Porter','carrie.porter@sakilacustomer.org','133','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'130','1','Charlotte','Hunter','charlotte.hunter@sakilacustomer.org','134','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'131','2','Monica','Hicks','monica.hicks@sakilacustomer.org','135','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'132','2','Esther','Crawford','esther.crawford@sakilacustomer.org','136','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'133','1','Pauline','Henry','pauline.henry@sakilacustomer.org','137','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'134','1','Emma','Boyd','emma.boyd@sakilacustomer.org','138','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'135','2','Juanita','Mason','juanita.mason@sakilacustomer.org','139','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'136','2','Anita','Morales','anita.morales@sakilacustomer.org','140','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'137','2','Rhonda','Kennedy','rhonda.kennedy@sakilacustomer.org','141','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'138','1','Hazel','Warren','hazel.warren@sakilacustomer.org','142','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'139','1','Amber','Dixon','amber.dixon@sakilacustomer.org','143','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'140','1','Eva','Ramos','eva.ramos@sakilacustomer.org','144','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'141','1','Debbie','Reyes','debbie.reyes@sakilacustomer.org','145','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'142','1','April','Burns','april.burns@sakilacustomer.org','146','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'143','1','Leslie','Gordon','leslie.gordon@sakilacustomer.org','147','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'144','1','Clara','Shaw','clara.shaw@sakilacustomer.org','148','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'145','1','Lucille','Holmes','lucille.holmes@sakilacustomer.org','149','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'146','1','Jamie','Rice','jamie.rice@sakilacustomer.org','150','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'147','2','Joanne','Robertson','joanne.robertson@sakilacustomer.org','151','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'148','1','Eleanor','Hunt','eleanor.hunt@sakilacustomer.org','152','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'149','1','Valerie','Black','valerie.black@sakilacustomer.org','153','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'150','2','Danielle','Daniels','danielle.daniels@sakilacustomer.org','154','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'151','2','Megan','Palmer','megan.palmer@sakilacustomer.org','155','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'152','1','Alicia','Mills','alicia.mills@sakilacustomer.org','156','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'153','2','Suzanne','Nichols','suzanne.nichols@sakilacustomer.org','157','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'154','2','Michele','Grant','michele.grant@sakilacustomer.org','158','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'155','1','Gail','Knight','gail.knight@sakilacustomer.org','159','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'156','1','Bertha','Ferguson','bertha.ferguson@sakilacustomer.org','160','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'157','2','Darlene','Rose','darlene.rose@sakilacustomer.org','161','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'158','1','Veronica','Stone','veronica.stone@sakilacustomer.org','162','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'159','1','Jill','Hawkins','jill.hawkins@sakilacustomer.org','163','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'160','2','Erin','Dunn','erin.dunn@sakilacustomer.org','164','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'161','1','Geraldine','Perkins','geraldine.perkins@sakilacustomer.org','165','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'162','2','Lauren','Hudson','lauren.hudson@sakilacustomer.org','166','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'163','1','Cathy','Spencer','cathy.spencer@sakilacustomer.org','167','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'164','2','Joann','Gardner','joann.gardner@sakilacustomer.org','168','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'165','2','Lorraine','Stephens','lorraine.stephens@sakilacustomer.org','169','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'166','1','Lynn','Payne','lynn.payne@sakilacustomer.org','170','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'167','2','Sally','Pierce','sally.pierce@sakilacustomer.org','171','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'168','1','Regina','Berry','regina.berry@sakilacustomer.org','172','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'169','2','Erica','Matthews','erica.matthews@sakilacustomer.org','173','t','2006-02-14','2013-05-26 14:49:45.738','0';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'170','1','Beatrice','Arnold','beatrice.arnold@sakilacustomer.org','174','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'171','2','Dolores','Wagner','dolores.wagner@sakilacustomer.org','175','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'172','1','Bernice','Willis','bernice.willis@sakilacustomer.org','176','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'173','1','Audrey','Ray','audrey.ray@sakilacustomer.org','177','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'174','2','Yvonne','Watkins','yvonne.watkins@sakilacustomer.org','178','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'175','1','Annette','Olson','annette.olson@sakilacustomer.org','179','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'176','1','June','Carroll','june.carroll@sakilacustomer.org','180','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'177','2','Samantha','Duncan','samantha.duncan@sakilacustomer.org','181','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'178','2','Marion','Snyder','marion.snyder@sakilacustomer.org','182','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'179','1','Dana','Hart','dana.hart@sakilacustomer.org','183','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'180','2','Stacy','Cunningham','stacy.cunningham@sakilacustomer.org','184','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'181','2','Ana','Bradley','ana.bradley@sakilacustomer.org','185','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'182','1','Renee','Lane','renee.lane@sakilacustomer.org','186','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'183','2','Ida','Andrews','ida.andrews@sakilacustomer.org','187','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'184','1','Vivian','Ruiz','vivian.ruiz@sakilacustomer.org','188','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'185','1','Roberta','Harper','roberta.harper@sakilacustomer.org','189','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'186','2','Holly','Fox','holly.fox@sakilacustomer.org','190','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'187','2','Brittany','Riley','brittany.riley@sakilacustomer.org','191','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'188','1','Melanie','Armstrong','melanie.armstrong@sakilacustomer.org','192','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'189','1','Loretta','Carpenter','loretta.carpenter@sakilacustomer.org','193','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'190','2','Yolanda','Weaver','yolanda.weaver@sakilacustomer.org','194','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'191','1','Jeanette','Greene','jeanette.greene@sakilacustomer.org','195','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'192','1','Laurie','Lawrence','laurie.lawrence@sakilacustomer.org','196','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'193','2','Katie','Elliott','katie.elliott@sakilacustomer.org','197','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'194','2','Kristen','Chavez','kristen.chavez@sakilacustomer.org','198','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'195','1','Vanessa','Sims','vanessa.sims@sakilacustomer.org','199','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'196','1','Alma','Austin','alma.austin@sakilacustomer.org','200','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'197','2','Sue','Peters','sue.peters@sakilacustomer.org','201','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'198','2','Elsie','Kelley','elsie.kelley@sakilacustomer.org','202','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'199','2','Beth','Franklin','beth.franklin@sakilacustomer.org','203','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'200','2','Jeanne','Lawson','jeanne.lawson@sakilacustomer.org','204','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'201','1','Vicki','Fields','vicki.fields@sakilacustomer.org','205','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'202','2','Carla','Gutierrez','carla.gutierrez@sakilacustomer.org','206','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'203','1','Tara','Ryan','tara.ryan@sakilacustomer.org','207','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'204','1','Rosemary','Schmidt','rosemary.schmidt@sakilacustomer.org','208','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'205','2','Eileen','Carr','eileen.carr@sakilacustomer.org','209','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'206','1','Terri','Vasquez','terri.vasquez@sakilacustomer.org','210','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'207','1','Gertrude','Castillo','gertrude.castillo@sakilacustomer.org','211','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'208','1','Lucy','Wheeler','lucy.wheeler@sakilacustomer.org','212','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'209','2','Tonya','Chapman','tonya.chapman@sakilacustomer.org','213','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'210','2','Ella','Oliver','ella.oliver@sakilacustomer.org','214','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'211','1','Stacey','Montgomery','stacey.montgomery@sakilacustomer.org','215','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'212','2','Wilma','Richards','wilma.richards@sakilacustomer.org','216','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'213','1','Gina','Williamson','gina.williamson@sakilacustomer.org','217','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'214','1','Kristin','Johnston','kristin.johnston@sakilacustomer.org','218','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'215','2','Jessie','Banks','jessie.banks@sakilacustomer.org','219','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'216','1','Natalie','Meyer','natalie.meyer@sakilacustomer.org','220','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'217','2','Agnes','Bishop','agnes.bishop@sakilacustomer.org','221','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'218','1','Vera','Mccoy','vera.mccoy@sakilacustomer.org','222','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'219','2','Willie','Howell','willie.howell@sakilacustomer.org','223','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'220','2','Charlene','Alvarez','charlene.alvarez@sakilacustomer.org','224','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'221','1','Bessie','Morrison','bessie.morrison@sakilacustomer.org','225','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'222','2','Delores','Hansen','delores.hansen@sakilacustomer.org','226','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'223','1','Melinda','Fernandez','melinda.fernandez@sakilacustomer.org','227','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'224','2','Pearl','Garza','pearl.garza@sakilacustomer.org','228','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'225','1','Arlene','Harvey','arlene.harvey@sakilacustomer.org','229','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'226','2','Maureen','Little','maureen.little@sakilacustomer.org','230','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'227','1','Colleen','Burton','colleen.burton@sakilacustomer.org','231','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'228','2','Allison','Stanley','allison.stanley@sakilacustomer.org','232','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'229','1','Tamara','Nguyen','tamara.nguyen@sakilacustomer.org','233','t','2006-02-14','2013-05-26 14:49:45.738','1';
 230','2','Joy','George','joy.george@sakilacustomer.org','234','t','2006-02-14','2013-05-26 14:49:45.738','1';
 231','1','Georgia','Jacobs','georgia.jacobs@sakilacustomer.org','235','t','2006-02-14','2013-05-26 14:49:45.738','1';
 232','2','Constance','Reid','constance.reid@sakilacustomer.org','236','t','2006-02-14','2013-05-26 14:49:45.738','1';
@@ -498,16 +732,26 @@
 497','2','Gilbert','Sledge','gilbert.sledge@sakilacustomer.org','502','t','2006-02-14','2013-05-26 14:49:45.738','1';
 498','1','Gene','Sanborn','gene.sanborn@sakilacustomer.org','503','t','2006-02-14','2013-05-26 14:49:45.738','1';
 499','2','Marc','Outlaw','marc.outlaw@sakilacustomer.org','504','t','2006-02-14','2013-05-26 14:49:45.738','1';
-500','1','Reginald','Kinder','reginald.kinder@sakilacustomer.org','505','t','2006-02-14','2013-05-26 14:49:45.738','1';
-501','1','Ruben','Geary','ruben.geary@sakilacustomer.org','506','t','2006-02-14','2013-05-26 14:49:45.738','1';
-502','1','Brett','Cornwell','brett.cornwell@sakilacustomer.org','507','t','2006-02-14','2013-05-26 14:49:45.738','1';
-503','1','Angel','Barclay','angel.barclay@sakilacustomer.org','508','t','2006-02-14','2013-05-26 14:49:45.738','1';
-504','1','Nathaniel','Adam','nathaniel.adam@sakilacustomer.org','509','t','2006-02-14','2013-05-26 14:49:45.738','1';
-505','1','Rafael','Abney','rafael.abney@sakilacustomer.org','510','t','2006-02-14','2013-05-26 14:49:45.738','1';
-506','2','Leslie','Seward','leslie.seward@sakilacustomer.org','511','t','2006-02-14','2013-05-26 14:49:45.738','1';
-507','2','Edgar','Rhoads','edgar.rhoads@sakilacustomer.org','512','t','2006-02-14','2013-05-26 14:49:45.738','1';
-508','2','Milton','Howland','milton.howland@sakilacustomer.org','513','t','2006-02-14','2013-05-26 14:49:45.738','1';
-509','1','Raul','Fortier','raul.fortier@sakilacustomer.org','514','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'500','1','Reginald','Kinder','reginald.kinder@sakilacustomer.org','505','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'501','1','Ruben','Geary','ruben.geary@sakilacustomer.org','506','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'502','1','Brett','Cornwell','brett.cornwell@sakilacustomer.org','507','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'503','1','Angel','Barclay','angel.barclay@sakilacustomer.org','508','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'504','1','Nathaniel','Adam','nathaniel.adam@sakilacustomer.org','509','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'505','1','Rafael','Abney','rafael.abney@sakilacustomer.org','510','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'506','2','Leslie','Seward','leslie.seward@sakilacustomer.org','511','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'507','2','Edgar','Rhoads','edgar.rhoads@sakilacustomer.org','512','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'508','2','Milton','Howland','milton.howland@sakilacustomer.org','513','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+'509','1','Raul','Fortier','raul.fortier@sakilacustomer.org','514','t','2006-02-14','2013-05-26 14:49:45.738','1';
 510','2','Ben','Easter','ben.easter@sakilacustomer.org','515','t','2006-02-14','2013-05-26 14:49:45.738','0';
 511','1','Chester','Benner','chester.benner@sakilacustomer.org','516','t','2006-02-14','2013-05-26 14:49:45.738','1';
 512','1','Cecil','Vines','cecil.vines@sakilacustomer.org','517','t','2006-02-14','2013-05-26 14:49:45.738','1';
@@ -585,18 +829,27 @@
 585','1','Perry','Swafford','perry.swafford@sakilacustomer.org','591','t','2006-02-14','2013-05-26 14:49:45.738','1';
 586','1','Kirk','Stclair','kirk.stclair@sakilacustomer.org','592','t','2006-02-14','2013-05-26 14:49:45.738','1';
 587','1','Sergio','Stanfield','sergio.stanfield@sakilacustomer.org','593','t','2006-02-14','2013-05-26 14:49:45.738','1';
-588','1','Marion','Ocampo','marion.ocampo@sakilacustomer.org','594','t','2006-02-14','2013-05-26 14:49:45.738','1';
-589','1','Tracy','Herrmann','tracy.herrmann@sakilacustomer.org','595','t','2006-02-14','2013-05-26 14:49:45.738','1';
-590','2','Seth','Hannon','seth.hannon@sakilacustomer.org','596','t','2006-02-14','2013-05-26 14:49:45.738','1';
-591','1','Kent','Arsenault','kent.arsenault@sakilacustomer.org','597','t','2006-02-14','2013-05-26 14:49:45.738','1';
-592','1','Terrance','Roush','terrance.roush@sakilacustomer.org','598','t','2006-02-14','2013-05-26 14:49:45.738','0';
-593','2','Rene','Mcalister','rene.mcalister@sakilacustomer.org','599','t','2006-02-14','2013-05-26 14:49:45.738','1';
-594','1','Eduardo','Hiatt','eduardo.hiatt@sakilacustomer.org','600','t','2006-02-14','2013-05-26 14:49:45.738','1';
-595','1','Terrence','Gunderson','terrence.gunderson@sakilacustomer.org','601','t','2006-02-14','2013-05-26 14:49:45.738','1';
-596','1','Enrique','Forsythe','enrique.forsythe@sakilacustomer.org','602','t','2006-02-14','2013-05-26 14:49:45.738','1';
-597','1','Freddie','Duggan','freddie.duggan@sakilacustomer.org','603','t','2006-02-14','2013-05-26 14:49:45.738','1';
-598','1','Wade','Delvalle','wade.delvalle@sakilacustomer.org','604','t','2006-02-14','2013-05-26 14:49:45.738','1';
-599','2','Austin','Cintron','austin.cintron@sakilacustomer.org','605','t','2006-02-14','2013-05-26 14:49:45.738','1';
-\.
-
-
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '588','1','Marion','Ocampo','marion.ocampo@sakilacustomer.org','594','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '589','1','Tracy','Herrmann','tracy.herrmann@sakilacustomer.org','595','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '590','2','Seth','Hannon','seth.hannon@sakilacustomer.org','596','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '591','1','Kent','Arsenault','kent.arsenault@sakilacustomer.org','597','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '592','1','Terrance','Roush','terrance.roush@sakilacustomer.org','598','t','2006-02-14','2013-05-26 14:49:45.738','0';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '593','2','Rene','Mcalister','rene.mcalister@sakilacustomer.org','599','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '594','1','Eduardo','Hiatt','eduardo.hiatt@sakilacustomer.org','600','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '595','1','Terrence','Gunderson','terrence.gunderson@sakilacustomer.org','601','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '596','1','Enrique','Forsythe','enrique.forsythe@sakilacustomer.org','602','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '597','1','Freddie','Duggan','freddie.duggan@sakilacustomer.org','603','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '598','1','Wade','Delvalle','wade.delvalle@sakilacustomer.org','604','t','2006-02-14','2013-05-26 14:49:45.738','1';
+INSERT INTO customer (customer_id, store_id, first_name, last_name, email, address_id, activebool, create_date, last_update, active) VALUES (
+    '599','2','Austin','Cintron','austin.cintron@sakilacustomer.org','605','t','2006-02-14','2013-05-26 14:49:45.738','1';

@@ -16,12 +16,20 @@ SQL database ussing Posgres - Simple Postgres  SQL for QA/QC for testing purpose
 Open `setups` folder, we have 3 sql files:
 
 - `BikeStores-create objects.sql`: this file is for creating database objects including schemas and tables.
-
 - `BikeStores-load data.sql`: this file is for inserting data into the tables
 - `BikeStores-drop all objects.sql`: this file is for removing the tables and their schemas from the sample database. It is useful when you want to refresh the sample database.
 
+## Clear Table:
+- Using Docker command to access to Postgres container: `docker exec -it test-postgres bash`
+- Using this command to login Postgress database: `psql -d **database_name** -U  postgres -W` and input the password `*`
+- Run this command to clear table: `DROP TABLE IF EXISTS **table_name** CASCADE;`
+Example: `DROP TABLE IF EXISTS actor CASCADE;`
+- Run this command multiple table: `DROP TABLE IF EXISTS inventory,rental,store CASCADE;`
 
-psql -d dvdrental -U  postgres -W
+## Clear Database:
+
+`DROP DATABASE dvdrental;`
 
 ## References:
 - https://www.sqlservertutorial.net/sql-server-sample-database/
+- https://sqlserverguides.com/create-database-in-postgresql/

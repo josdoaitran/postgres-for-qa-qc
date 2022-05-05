@@ -882,6 +882,3 @@ CREATE VIEW public.staff_list AS
 
 
 ALTER TABLE public.staff_list OWNER TO postgres;
-
-
-

@@ -15,9 +15,12 @@ SQL database ussing Posgres - Simple Postgres  SQL for QA/QC for testing purpose
 ## Setup Local Database:
 Open `setups` folder, we have 3 sql files:
 
-- `BikeStores-create objects.sql`: this file is for creating database objects including schemas and tables.
-- `BikeStores-load data.sql`: this file is for inserting data into the tables
-- `BikeStores-drop all objects.sql`: this file is for removing the tables and their schemas from the sample database. It is useful when you want to refresh the sample database.
+- `create_db.sql`: this file is for creating database objects including schemas and tables.
+- `create_tables.sql`: this file is for creating the tables.
+- `import_data.sql`: this file is for importing data for all tables.
+- `relationship.sql`: this file is for removing the tables and their schemas from the sample database. It is useful when you want to refresh the sample database.
+
+
 
 ## Clear Table:
 - Using Docker command to access to Postgres container: `docker exec -it test-postgres bash`

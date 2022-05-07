@@ -24,7 +24,7 @@ Open `setups` folder, we have 3 sql files:
 
 ## Clear Table:
 - Using Docker command to access to Postgres container: `docker exec -it test-postgres bash`
-- Using this command to login Postgress database: `psql -d **database_name** -U  postgres -W` and input the password `*`
+- Using this command to login Postgress database: `psql -d postgres -U  postgres -W` and input the password `Password@12345`
 - Run this command to clear table: `DROP TABLE IF EXISTS **table_name** CASCADE;`
 Example: `DROP TABLE IF EXISTS actor CASCADE;`
 - Run this command multiple table: `DROP TABLE IF EXISTS inventory,rental,store CASCADE;`
@@ -33,6 +33,29 @@ Example: `DROP TABLE IF EXISTS actor CASCADE;`
 
 `DROP DATABASE dvdrental;`
 
+## Simple SQL command for QA:
+
+### Select command
+
+**Syntax**
+
+- Select every thing:
+
+```SELECT * FROM schema_name.table_name WHERE <condition>;```
+
+- Select some fields :
+
+```SELECT field1, field2 FROM schema_name.table_name WHERE <condition>;```
+
+**Example:** 
+```
+select * from public.film;
+select * from public.film where film_id = 45;
+select * from public.film where title like 'Am%'
+```
+
+
 ## References:
+- https://drive.google.com/drive/folders/19MKLuRXCVp_1tCSkdktUy2choGV0SYcj
 - https://www.sqlservertutorial.net/sql-server-sample-database/
 - https://sqlserverguides.com/create-database-in-postgresql/

@@ -35,6 +35,7 @@ Open `setups` folder, we have 3 sql files:
 **Example:** 
 ```
 select * from public.film;
+select * from public.film limit 20;
 select * from public.film where film_id = 45;
 select * from public.film where title like 'Am%'
 ```
@@ -56,6 +57,55 @@ ORDER BY
 	sort_expression1 [ASC | DESC],
         ...
 	sort_expressionN [ASC | DESC];
+```
+
+Example: 
++ Order by 1 field and ASC is default option, when we don't mention type of odering.
+```
+SELECT * FROM public.customer ORDER BY last_name
+```
++ Order by 1 field and DESC
+```
+SELECT * FROM public.actor ORDER BY first_name DECS, last_name ASC
+```
+## INNER JOIN:
+
+Example for 2 tables: payment and staff to query data of payment for a staff_id.
+
+```
+SELECT
+	staff.staff_id,
+	first_name,
+	last_name,
+	amount,
+	payment_date
+FROM
+	staff
+INNER JOIN payment 
+    ON payment.staff_id = staff.staff_id
+ORDER BY payment_date;
+``` 
+
+## Group By:
+
+We're going to group value from Select statement. We can use Group By. In the simple database, We can group data of payment table by customer_id, staff_id.
+
+Example:
+```
+SELECT staff_id FROM payment Group By staff_id;
+SELECT staff_id, sum(amount) FROM payment Group By staff_id;
+```
+
+## Insert:
+
+Example:
+```
+INSERT INTO public.staff (staff_id, first_name, last_name, address_id, email, store_id, active, username, password, last_update, picture) VALUES ('3','Jack','Son','5','Jack.Son@sakilastaff.com','2','t','Jack','8cb2237d0679ca88db6464eac60da96345513964','2021-05-16 16:13:11.79328','');
+```
+
+## Delete:
+```
+Delete public.staff where staff_id = 3;
 ```
 
 ## Clear Table:
